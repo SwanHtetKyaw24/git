@@ -1,0 +1,10 @@
+export const NOTE_TITLE_CREATE = 'note_title_create';
+export const TITLE_CHANGED = 'title_changed';
+export const POPUP_ON = 'popup_on';
+export const POPUP_OFF = 'popup_off';
+export const NOTE_FETCH_SUCCESS = 'note_fetch_success';
+export const TEXT_VALUE_CHANGED = 'text_value_changed';
+export const NOTE_SAVED_SUCCESSFULLY = 'note_saved_successfully';
+export const NOTE_TITLE_UPDATE = 'note_title_update';
+export const NOTE_DELETE_SUCCESSFULLY = 'note_delete_successfully';
+export const CLEAR_DATA = 'clear_data';
